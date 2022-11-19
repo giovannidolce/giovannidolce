@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giovannidolce
 - 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking for work in Data Science...
 - 📫 How to reach me giovanni.dolce7@gmail.com
 
 <!---
